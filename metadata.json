@@ -1,0 +1,6 @@
+{
+  "name": "HEALTHGRID AI - Smart Health & Supply Chain Monitor",
+  "description": "Intelligent medicine inventory monitoring, stock-out forecasting, and inter-facility redistribution system for public health centres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
